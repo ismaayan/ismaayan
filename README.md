@@ -36,4 +36,3 @@ I'm always open to collaboration and learning new things! If you're interested i
 
 ---
 
-_Thanks for stopping by! Feel free to explore my repositories and reach out for any inquiries or collaborations._
