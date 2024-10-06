@@ -26,7 +26,7 @@ Feel free to explore more of my projects on [GitHub](https://github.com/maayan89
 
 ## 📫 Let's Connect
 
-- LinkedIn: [https://www.linkedin.com/in/maayan-israel-05671810a/](https://www.linkedin.com/in/maayan-israel-05671810a/)
+- LinkedIn: [https://www.linkedin.com/in/maayan-israel-05671810a/](https://www.linkedin.com/in/maayan-israel/)
 - Email: maayan.isr89@gmail.com
 
 ## 🌱 Looking to Collaborate
