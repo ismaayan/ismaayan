@@ -3,7 +3,7 @@
 # Hi there! 👋 I'm Maayan
 
 
-I'm a QA Automation Engineer with expertise in Playwright, JavaScript, HTML, CSS, and more. Welcome to my GitHub profile, where I showcase my projects and contributions!
+I'm a QA Automation Engineer with expertise in Playwright, JavaScript, Selenium, Python, HTML, CSS, and more. Welcome to my GitHub profile, where I showcase my projects and contributions!
 
 ## 🔧 Skills
 
