@@ -22,7 +22,7 @@ I'm a QA Automation Engineer with expertise in Playwright, JavaScript, Selenium,
 
 
 
-Feel free to explore more of my projects on [GitHub](https://github.com/maayan89).
+Feel free to explore more of my projects
 
 ## 📫 Let's Connect
 
