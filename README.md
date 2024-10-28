@@ -22,7 +22,7 @@ I'm a QA Automation Engineer with expertise in Playwright, JavaScript, Selenium,
 
 
 
-Feel free to explore more of my projects
+Feel free to explore more of my projects.
 
 ## 📫 Let's Connect
 
