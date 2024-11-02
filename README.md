@@ -14,7 +14,7 @@ I'm a QA Automation Engineer with expertise in Playwright, JavaScript, Selenium,
 - **Version Control System:** Git, GitLab, Bit Bucket
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Project Management:** Jira
-- **CI/CD:** Jenkines
+- **CI/CD:** Jenkines, GitHub Actions
 - **API Testing:** Postman, SOAP UI
 - **Other Tools:** Confluence, Datadog, Sentry
 - **Methodologies:** Agile/Scrum/Kanban, Waterfall
